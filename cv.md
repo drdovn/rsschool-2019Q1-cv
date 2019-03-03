@@ -3,12 +3,10 @@
 My name is Elena Dovnar.
 ### *2. Contacts*
 You can contact me using the following means:
-| Source | Value |
-|-----| ----- |
-| Gmail | dr.dovn@gmail.com |
-| VKontakte | https://vk.com/id254940059|
-| Mail | xy-02@mail.ru |
-| Phone | (029) 754-78-07 |
+1. Gmail: dr.dovn@gmail.com
+2. VKontakte: https://vk.com/id254940059
+3. Mail: xy-02@mail.ru
+4. Phone: (029) 754-78-07
 *preferences in descending order*
 
 ### *3. Summary*

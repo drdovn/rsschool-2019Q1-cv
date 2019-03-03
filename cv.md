@@ -15,16 +15,16 @@ That was one of the reasons. On the other hand, having, to some extent, a mathem
 Another factor why I am attracted to this area is the youth-adult staff, not mired in the depths of office gossip and intrigue. The opportunity to work on the project with really different people, but to know that it is not forever allows you to appreciate the time spent with them, adopting their experience and becoming better. I grew up in a family with several generations, and changed several teams during my studies, which allowed me to assess the contribution that other people bring to you, as well as to learn how to communicate with them without conflict.
 In conclusion, I would like to say that I appreciate the opportunities offered by RSS, I think if I manage to pass all the stages, I will become a good worker.
 
-### *3. Skills*
+### *4. Skills*
 * C++ —- 2 years in the University
 * MySQL —- 1 semester
 * SQL —- 1 semester
 
-### *4. Experience*
+### *5. Experience*
 I'm still studying, that is why i have no expressive experience. Therefore, I think the most important my results will be shown at these courses.
 
-### *5. Education*
+### *6. Education*
 I'm a student of Belarusian state University of Economics, 2nd course. I haven't passed any courses connected with programming or mathematics. But there were additional language classes.
 
-### *6. The English level*
+### *7. The English level*
 As I already told I attended additional classes on English and some time even the tutor. It was probably not from a great love but because of need. As a result, I had a B2 level and received a certificate of 90 points for CT, which I did not use, because chose another specialty. Now I do not know my level of English, but I think if necessary I can pull it up in a not very long time.

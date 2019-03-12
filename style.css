@@ -1,0 +1,92 @@
+html,body{
+  height:100%;
+width:100%;
+  text-decoration: none;
+  margin: 0 auto;
+}
+.container{
+  max-width: 1024px
+}
+header{
+  position: relative;
+  width: 100%;
+  height:100px;
+  background-color: #207020;
+}
+.headline{
+  position: absolute;
+  top:25%;
+  height: 50px;
+  width:100%;
+  background-color: #119933;
+}
+header ul{
+  position: absolute;
+  display:inline-block;
+  padding: 0;
+  margin:0 auto;
+  top:20%;
+left:50%;
+transform: translateX(-50%);
+min-width: 950px;
+}
+header li{
+  font-size: 20px;
+display: inline-block;
+padding: 10px;
+margin-left: 40px;
+}
+li a{
+  text-decoration: none;
+  color: #453361;
+}
+a:hover{
+  color: white;
+}
+img{
+  top:30px;
+  width:200px;
+  border-style:ridge;
+  float: left;
+  margin-right: 20px;
+}
+h3{
+  display: inline-block;
+  margin: 20px 30%;
+  color:#453361;
+  font-weight: 800;
+}
+
+.summary{
+  margin:0;
+}
+.summary h3{
+  margin: 20px 50%;
+}
+p{
+  left:5%;
+}
+div{
+  display:inline-block;
+}
+.column{
+  display: inline-flex;
+}
+.skills{
+  width:32%;
+  height: 40%;
+  margin:0.5%;
+
+}
+.education{
+  width:32%;
+margin: 0.5%
+}
+.english{
+  width:32%;
+  margin:0.5%;
+}
+}
+.contacts ul li{
+  margin:5px;
+}
